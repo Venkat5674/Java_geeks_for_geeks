@@ -1,3 +1,4 @@
+//implementaion of basic calculator app
 import java.util.Scanner;
 
 class Calculator {
@@ -30,5 +31,6 @@ class Calculator {
         }
 
     }
+
 
 }
